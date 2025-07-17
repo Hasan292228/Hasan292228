@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hasan292228
 - 👀 I’m interested in: coding ig
 - 🌱 I’m currently learning: python
-- 💞️ I’m looking to collaborate on: something?
-- 📫 How to reach me: idk really.
+- 📫 How to reach me: no
 - 😄 Pronouns: Halo
-- ⚡ Fun fact: I forgot...
+- ⚡ Fun fact: True == True

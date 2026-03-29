@@ -11,6 +11,6 @@ My Skills & Current Learning:
 
 Projects I've Built:
 
-    Pong: A recreation of the classic arcade game.
-    Typing Speed Tester: An application designed to help users measure their typing speed.
-    A Shopping App: An application where users can buy and sell items.
+    Pong (Python): A recreation of the classic arcade game.
+    Typing Speed Tester (Python): An application designed to help users measure their typing speed.
+    A Shopping App (Python): An application where users can buy and sell items.

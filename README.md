@@ -1,11 +1,15 @@
 Hi there, I'm Hasan.
 I am currently a student and an aspiring Backend Developer.
 
-My current Skill Set:
+My Skill Set:
 
-    Languages: Python
+    Languages: Python, C++
     Frameworks: FastAPI
     Databases: PostgreSQL
+
+What I am learning:
+
+    Backend Development and System Design.
 
 Projects that I have Built:
 

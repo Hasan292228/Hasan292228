@@ -5,6 +5,7 @@ My Skill Set:
     Languages: Python, C++
     Frameworks: FastAPI
     Databases: PostgreSQL
+    Others: Git
 
 What I am learning:
 
@@ -12,19 +13,19 @@ What I am learning:
 
 Projects that I have Built:
 
-Pong:
+[Pong](https://github.com/Hasan292228/Pong):
 
     A recreation of the classic arcade game pong in Python using the tkinter library.
     Offers the ability to play with a friend or with Bots with varying difficulty levels.
     Handling of real-time key presses and game state management.
     
-Shopping App:
+[Shopping App](https://github.com/Hasan292228/shopping-app):
 
     Built using Python's customtkinter library, this app provides a functional store.
     Using the bcrypt library, the app offers a secure registration and login process.
     It uses JSON as a lightweight database, to store user information as well as track inventory and handle transactional logic between buyers and sellers.
 
-Campus Navigation:
+[Campus Navigation](https://github.com/Hasan292228/campus-navigation):
 
     A spatial navigation tool built to find the most efficient routes across the university campus.
     It offers optimized spatial searches by using KD-Trees that significantly cuts down the number of searches required.

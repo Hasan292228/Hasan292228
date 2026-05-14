@@ -1,16 +1,27 @@
 Hi there, I'm Hasan.
-Always learning and looking for new challenges.
+I am currently a student and an aspiring Backend Developer.
 
-I'm a developer with a passion for building applications and constantly expanding my skill set.
-
-My Skills & Current Learning:
+My current Skill Set:
 
     Languages: Python
     Frameworks: FastAPI
     Databases: PostgreSQL
 
-Projects I've Built:
+Projects that I have Built:
 
-    Pong (Python): A recreation of the classic arcade game.
-    Typing Speed Tester (Python): An application designed to help users measure their typing speed.
-    A Shopping App (Python): An application where users can buy and sell items.
+Pong:
+
+    A recreation of the classic arcade game pong in Python using the tkinter library.
+    Offers the ability to play with a friend or with Bots with varying difficulty levels.
+    Handling of real-time key presses and game state management.
+    
+Shopping App:
+
+    Built using Python's customtkinter library, this app provides a functional store.
+    Using the bcrypt library, the app offers a secure registration and login process.
+    It uses JSON as a lightweight database, to store user information as well as track inventory and handle transactional logic between buyers and sellers.
+
+Campus Navigation:
+
+    A spatial navigation tool built to find the most efficient routes across the university campus.
+    It offers optimized spatial searches by using KD-Trees that significantly cuts down the number of searches required.

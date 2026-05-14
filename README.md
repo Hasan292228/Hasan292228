@@ -1,5 +1,4 @@
-Hi there, I'm Hasan.
-I am currently a student and an aspiring Backend Developer.
+Hi there, i'm Hasan. I am a student and an aspiring Backend Developer.
 
 My Skill Set:
 

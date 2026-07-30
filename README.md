@@ -5,7 +5,7 @@ My Skill Set:
     Languages: Python, C++, SQL
     Frameworks: FastAPI
     Databases: PostgreSQL
-    Others: Git, Postman
+    Others: Git, Postman, Docker
 
 What I am learning:
 

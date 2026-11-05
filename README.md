@@ -1,13 +1,12 @@
-Halo there, i'm Hasan and I am a student who is an aspiring Backend Developer.
-
-My Skill Set:
+Halo
+What I knows:
 
     Languages: Python, C++, SQL
     Frameworks: FastAPI
     Databases: PostgreSQL
     Others: Git, Postman, Docker
 
-What I am learning:
+What I learnings:
 
     Backend Development and System Design.
 

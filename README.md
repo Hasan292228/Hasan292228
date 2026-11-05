@@ -1,4 +1,4 @@
-Halo
+Halo,
 What I knows:
 
     Languages: Python, C++, SQL
